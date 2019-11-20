@@ -1,0 +1,12 @@
+Ann Hawkins is a Freshman English
+who has completed 16 hours with a 3.600 gpa.
+
+Miles Kimball is a Sophomore Computer Science
+who has completed 33 hours with a 3.800 gpa.
+
+Mary Ellen de Silva is a Senior Arts Technology
+who has completed 94 hours with a 2.970 gpa.
+
+Jasper Thomas is a Freshman Comp Sci
+who has completed 16 hours with a 4.600 gpa.
+
